@@ -1,0 +1,13 @@
+"tipo_pista","fase_dia","total_combinacao","percentual_cobertura_total"
+Simples,Pleno dia,18765,25.87
+Dupla,Pleno dia,17585,24.25
+Simples,Plena Noite,12244,16.88
+Dupla,Plena Noite,10181,14.04
+Múltipla,Pleno dia,4025,5.55
+Múltipla,Plena Noite,2356,3.25
+Simples,Anoitecer,1921,2.65
+Simples,Amanhecer,1803,2.49
+Dupla,Anoitecer,1642,2.26
+Dupla,Amanhecer,1374,1.89
+Múltipla,Anoitecer,363,0.50
+Múltipla,Amanhecer,270,0.37
