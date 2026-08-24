@@ -113,16 +113,21 @@ Fechamento do módulo com um notebook completo em **Python/Pandas** (`modulo4_pr
 FAP/
 ├── Módulo 1/
 │   ├── Unidade 1/                  # Excel — base PRF preliminar
+│   │   ├── README.md               # Detalhamento da análise e fórmulas do Excel
 │   │   ├── dados prf previa.xlsx
 │   │   └── modulo_02_excel_prf_Edvaldo_Cosme_01.xlsx
 │   ├── Unidade 2/                  # SQLite — Escola Tech
+│   │   ├── README.md               # Detalhamento da estrutura SQL, filtros e operações
 │   │   └── SQLite.sql
 │   ├── Unidade 3/                  # SQL Analytics — Acidentes PRF 2025
+│   │   ├── README.md               # Detalhamento analítico e métricas avançadas
 │   │   ├── fap scripts finalizado.sql
 │   │   ├── resultados/             # CSVs com os insights gerados
 │   │   └── Views com resultados consolidados/
 │   └── Unidade 4/                  # Python — Preparação de dados
-│       └── Modulo4_Python_Preparacao_Dados/  # notebook + bases tratadas
+│       ├── README.md               # Detalhamento da engenharia de features e CRISP-DM
+│       ├── Modulo4_Python_Preparacao_Dados-20260812T181908Z-1-001.zip
+│       └── extracted/Modulo4_Python_Preparacao_Dados/  # notebook + bases tratadas
 └── README.md
 ```
 
